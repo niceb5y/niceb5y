@@ -1,7 +1,7 @@
 # 김승호 / Seungho Kim
 👋 Hi there. I'm a (sort of) junior front-end web developer.
 
-[![Seungho Kim's github stats](https://github-readme-stats.vercel.app/api?username=niceb5y&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Seungho Kim's github stats](https://github-readme-stats.vercel.app/api?username=niceb5y&show_icons=true&theme=onedark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Articles
 - [seungho.dev](https://seungho.dev/)

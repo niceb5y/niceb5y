@@ -12,4 +12,3 @@ Software Engineer
 [![Email](https://img.shields.io/badge/Email-niceb5y%40gmail.com-EA4335?logo=gmail)](mailto:niceb5y@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niceb5y-0A66C2?logo=linkedin)](https://www.linkedin.com/in/seungho-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-niceb5y-E4405F?logo=instagram)](https://www.instagram.com/niceb5y/)
-[![Twitter](https://img.shields.io/twitter/follow/niceb5y?color=blue&label=%40niceb5y&logo=twitter&style=flat)](https://twitter.com/niceb5y)
